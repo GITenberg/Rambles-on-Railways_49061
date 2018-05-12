@@ -1,10 +1,16 @@
 _repo: Rambles-on-Railways_49061
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49061-h/images/cover.jpg
 creator:
   author:
     agent_name: Roney, Cusack Patrick
     gutenberg_agent_id: '45118'
     url: http://www.gutenberg.org/2009/agents/45118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49061#Rambles-on-Railways
 gutenberg_issued: '2015-05-27'
 gutenberg_type: Text
 identifiers:
